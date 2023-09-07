@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3_Serverside - WebServeren", "H3_Serverside - WebServeren\H3_Serverside - WebServeren.csproj", "{52F165C1-3FE6-4F20-A275-D61F2675E81A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3_Serverside - Webserver Tests", "H3_Serverside - Webserver Tests\H3_Serverside - Webserver Tests.csproj", "{0EF5262D-923D-45FD-A4AE-021E6F531D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F165C1-3FE6-4F20-A275-D61F2675E81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F165C1-3FE6-4F20-A275-D61F2675E81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F165C1-3FE6-4F20-A275-D61F2675E81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F165C1-3FE6-4F20-A275-D61F2675E81A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF5262D-923D-45FD-A4AE-021E6F531D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF5262D-923D-45FD-A4AE-021E6F531D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF5262D-923D-45FD-A4AE-021E6F531D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF5262D-923D-45FD-A4AE-021E6F531D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C25A34-4836-4712-B91F-7FD286F0C25C}
+	EndGlobalSection
+EndGlobal
